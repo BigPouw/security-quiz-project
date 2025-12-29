@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/security-quiz-project/static/css/main.d4bb43f6.css",
+    "main.js": "/security-quiz-project/static/js/main.da703f9e.js",
+    "static/js/453.b915dbd8.chunk.js": "/security-quiz-project/static/js/453.b915dbd8.chunk.js",
+    "index.html": "/security-quiz-project/index.html",
+    "main.d4bb43f6.css.map": "/security-quiz-project/static/css/main.d4bb43f6.css.map",
+    "main.da703f9e.js.map": "/security-quiz-project/static/js/main.da703f9e.js.map",
+    "453.b915dbd8.chunk.js.map": "/security-quiz-project/static/js/453.b915dbd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4bb43f6.css",
+    "static/js/main.da703f9e.js"
+  ]
+}
